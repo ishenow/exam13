@@ -1,0 +1,15 @@
+.gallery-form {
+    display: flex;
+    align-items: center;
+    margin: 50px 0;
+    padding: 20px 0;
+    border-top: 1px solid darkorange;
+}
+
+.gallery-form .form-group {
+    margin: 0;
+}
+
+.gallery-form label {
+    width: 500px;
+}
