@@ -1,0 +1,13 @@
+.rating-block {
+    display: flex;
+    justify-content: space-between;
+}
+
+.rating-block label {
+    margin-right: 10px;
+}
+
+.comments-block textarea {
+    height: 100px !important;
+    resize: none;
+}
