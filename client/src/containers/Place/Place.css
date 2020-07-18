@@ -1,0 +1,51 @@
+.place-block img {
+    width: 400px;
+    margin-right: 20px;
+    border: none;
+}
+
+.comments-block-wrapper {
+    border-top: 1px solid darkorange;
+    margin-top: 100px;
+}
+
+.comments-inner {
+    max-height: 450px;
+    overflow: auto;
+    margin: 10px 0 50px;
+}
+
+.comment-block {
+    padding: 10px;
+    border: 1px solid #000000;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.rating-row {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    padding-bottom: 20px;
+}
+
+.rating-name {
+    width: 20%;
+    margin: 0;
+}
+
+.rating-count {
+    margin: 0 0 0 15px;
+}
+
+.slick-slide {
+    position: relative;
+}
+
+.delete-btn {
+    position: absolute;
+    top: 5px;
+    left: 5px;
+}

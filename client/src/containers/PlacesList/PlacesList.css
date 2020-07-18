@@ -1,0 +1,13 @@
+.places-list {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.card {
+    width: 33%;
+}
+
+.card-title {
+    font-weight: 700;
+    font-size: 20px;
+}
